@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1728251566 source:c:\users\filip\onedrive\documentos\puc\programação paralela e distribuída\sistemas de detecção de incendios\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+	"functions.h"
+
+1728251657 c:\users\filip\onedrive\documentos\puc\programação paralela e distribuída\sistemas de detecção de incendios\functions.h
+	<stdarg.h>
+
+1728251761 source:c:\users\filip\onedrive\documentos\puc\programação paralela e distribuída\sistemas de detecção de incendios\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<stdarg.h>
+	"functions.h"
+
