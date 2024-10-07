@@ -1,0 +1,2 @@
+O Projeto foi desenvolvideo, executado e testado na IDE do "Code::Blocks", que por padrão não utiliza um MakeFile, mas utiliza um arquivo .cpb para a mesma função
+Todos os arquivos pertencentes ao projeto estão presentes no repositório. Um MakeFile foi adicionado, mas ele não foi utilizado na execução do projeto. Para uma execução compatível com a presenciada no desenvolvimento, utilizar o "Code::Blocks"
